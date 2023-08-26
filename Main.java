@@ -1,7 +1,5 @@
 /**
  * @author- Omoze Oyarebu
- * Course Section- CS 280-011
- * Student ID number- 31560659
  *
  * Project- Write a program that gives a solution to the Knight's Tour problem recursively and
  *           only takes less than 30 seconds to solve.
